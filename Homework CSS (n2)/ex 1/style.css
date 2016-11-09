@@ -1,0 +1,59 @@
+body{
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-color: #FFFFCC;
+	position:relative;
+	bottom: 100px;
+}
+.delyan{
+	opacity:0.75;
+	position:relative;
+	left: 33%;
+	top:110px;
+}
+h1{
+   
+	font-size:26px;
+}
+h2{
+	font-size:20px;
+	font-family:"verdana",Times, serif;
+}
+div{
+	font-size:16px;
+}
+
+span.right{
+	text-align:left;	
+	position:relative;
+	left:99%;
+	bottom:622px;
+}
+span.left{
+	position:relative;
+	right:74%;
+	text-align:right;	
+
+}
+span.right_2 {
+	position: relative;
+	top: 18px;
+}
+span.right_3 {
+	position: relative;
+	top: 53px;
+}
+
+span.right_4 {
+	position: relative;
+	top: 87px;
+}
+span.h1 {
+	position: relative;
+	bottom: 60px;
+}
+span.h2 {
+	position: relative;
+	bottom: 20px;
+	left: 254px;
+}

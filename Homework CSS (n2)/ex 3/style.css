@@ -1,0 +1,50 @@
+img.messi{
+	width: 30%;
+    height: auto;
+}
+img.clock{
+	width: 1.1%;
+    height: auto;
+	position:relative;
+	top:114px;
+	right:560px;
+}
+textarea{
+	position:relative;
+	top:9px;
+	left:266px;
+	width:300px;
+	opacity:0.5;
+	font-family:sans-serif;
+	font-size:16px;
+	border-color:white;
+	text-align: center;
+}
+time{
+	color:#33ff33;
+	font-size:18px;
+	position:relative;
+	bottom:50px;
+	left:50px;
+}
+a{
+	position:relative;
+	left:420px;
+	top:250px;
+	background-color:#99FF99;
+	color:white;
+	padding: 20px;
+	font-family:sans-serif;
+	font-size:18px;
+}
+span.info{
+	font-family:sans-serif;
+	font-size:20px;
+position:relative;
+left:40px;
+bottom:80px;
+}
+html {
+	position:relative;
+	
+}

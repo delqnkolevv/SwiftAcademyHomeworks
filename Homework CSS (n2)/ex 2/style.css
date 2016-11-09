@@ -1,0 +1,41 @@
+body{
+	overflow-y: hidden;
+    overflow-x: hidden;
+	background-color: silver;
+}
+::-webkit-input-placeholder
+ {
+   color: white;
+
+}
+input{
+	background-color: #3CBC8D;
+	position:relative;
+	width: 100%;
+    padding: 7px 20px;
+    margin: 8px 5px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+label{
+	margin: 15px;
+}
+div.radio{
+	font-size: 14px;
+}
+label.homeadress{
+
+}
+select{
+	font-style: italic;
+}
+input.register{
+	background-color:#85A8EF;
+	font-style: italic;
+	font-size:18;
+}
+input.accept{
+	position:relative;
+	right:740px;
+	top:25px;
+}
