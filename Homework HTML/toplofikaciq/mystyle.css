@@ -1,0 +1,13 @@
+@character "utf-8";
+div{
+    font-family: Tahoma;
+	font-size: 10;
+	
+}
+h3{
+	color:black
+}
+.name {
+	font-weight: bold;
+	color:red
+}

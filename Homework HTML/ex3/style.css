@@ -1,0 +1,23 @@
+.name {
+	font-weight: bold;
+}
+
+h1{
+	font-size : 19px;
+}
+th.picture {
+	padding-right: 50%;
+}
+.sectionleft {
+	text-align:right;
+    position: relative;
+	right: 2%;
+}
+table,th{
+	background-color: #BFE1F2;
+    font-family: Verdana;
+}
+
+.main{
+
+}
