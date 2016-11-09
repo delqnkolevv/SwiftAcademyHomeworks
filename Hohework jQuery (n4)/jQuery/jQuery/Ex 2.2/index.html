@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>jQuery Click Demo</title>
+    <link rel="stylesheet" type="text/css">
+    <script src="https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+		$(document).ready(function(){
+				var counter = parseInt($('#counter span').text());
+			$('#btn-click').click(function(){
+			
+				counter = counter + 1;
+			$('#counter span').html(counter);
+			});
+		});
+	</script>
+</head>
+<body>
+    <button id="btn-click">Click</button>
+	<p id="counter">Total counts:<span>50</span></p>
+</body>
+</html>
