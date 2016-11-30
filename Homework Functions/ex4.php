@@ -5,10 +5,9 @@
 
 
 function reverse($number){
-	if($number <= 9){
+	if($number <= 9 && $number > 999){
 		echo "Invalid data";
-	}
-	if ($number <= 99){
+	}if ($number <= 99){
 		$rev1 = $number % 10;
 		$number /= 10;
 		settype($number,"integer");
